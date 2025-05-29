@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <Edd/>
+    <Edd/> 
     <Greet name="rizz"/>
     <State/>
     <Sample/>
