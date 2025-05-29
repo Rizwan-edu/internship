@@ -2,7 +2,6 @@ import { Button, Switch, TextField } from '@mui/material'
 import React from 'react'
 import { alpha, styled } from '@mui/material/styles';
 import { pink } from '@mui/material/colors';
-
 function Sample() {
     const PinkSwitch = styled(Switch)(({ theme }) => ({
         '& .MuiSwitch-switchBase.Mui-checked': {

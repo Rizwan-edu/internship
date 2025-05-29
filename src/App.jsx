@@ -1,17 +1,19 @@
-import Edd from "./Edd"
-import Greet from "./Greet"
-import Sample from "./Sample"
-import State from "./State"
+import Component from "./Component"
+// import Edd from "./Edd"
+// import Greet from "./Greet"
+// import Sample from "./Sample"
+// import State from "./State"
 
 function App() {
 
 
   return (
     <>
-    <Edd/> 
+    {/* <Edd/> 
     <Greet name="rizz"/>
     <State/>
-    <Sample/>
+    <Sample/> */}
+    <Component/>
     </>
   )
 }
